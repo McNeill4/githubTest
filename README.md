@@ -1,2 +1,2 @@
 # githubTest
-# I added a second comment
+I added a second comment
